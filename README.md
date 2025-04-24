@@ -87,7 +87,7 @@ uv venv
 
  Note: This Dockerfile uses Maven for dependency management. If you're using a different build tool, adjust the commands accordingly.
 
-# Push the code to Github
+## Push the code to Github
 
  echo "# Devops-LLM" >> README.md
  git init
@@ -97,14 +97,14 @@ uv venv
  git remote add origin https://github.com/amana-nkit/Devops-LLM.git
  git push -u origin main
 
- ## Help
+## Help
 
  Any advise for common problems or issues.
  ```
  command to run if program contains helper info
  ```
 
- ## Authors
+## Authors
 
  Contributors names and contact info
 
